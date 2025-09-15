@@ -23,7 +23,7 @@
   - Velocity, altitude, and acceleration plots
   - Full flight profile
 
-### 🛰 Satellite Orbit Simulation
+###  Satellite Orbit Simulation
 - Auto-launches after apogee calculation
 - Uses RK4 numerical integration for orbital path
 - Real-time animation with:
